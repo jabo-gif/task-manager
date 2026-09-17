@@ -2,7 +2,7 @@
 
 A full-stack task management application with authentication, search, filtering, and pagination.
 
-**Live Demo:** https://REPLACE-WITH-YOUR-FRONTEND-URL.onrender.com
+**Live Demo:** https://task-manager-1-iasf.onrender.com
 
 ## Technologies Used
 
